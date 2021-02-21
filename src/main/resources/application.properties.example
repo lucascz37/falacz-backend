@@ -1,0 +1,7 @@
+my-properties.secret=
+spring.jpa.properties.hibernate.jdbc.lob.non_contextual_creation=true
+#Banco
+spring.datasource.url=
+spring.datasource.username=
+spring.datasource.password=
+spring.jpa.hibernate.ddl-auto=update
